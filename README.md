@@ -312,15 +312,15 @@ I have experience building both server-rendered and client-side web applications
 #### Front-End Projects
 
 *   **Responsive Sign-Up Page:** A clean, responsive sign-up form built with HTML, CSS, JavaScript, and Bootstrap. It includes robust client-side validation, an API call to check for username availability, and a secure password suggestion feature.  
-    >**Live:** <https://r-siddiq.github.io/Sign-Up-Page/>  •  **Source:** <https://github.com/r-siddiq/Sign-Up-Page>
+    >**Live:** <https://r-siddiq.tech/Sign-Up-Page/>  •  **Source:** <https://github.com/r-siddiq/Sign-Up-Page>
 *   **Quake Finder:** A static front-end web app that visualizes earthquake data from the USGS API on an interactive Google Map. This project highlights asynchronous API calls and dynamic DOM manipulation in a pure JavaScript application.  
-    >**Live:** <https://r-siddiq.github.io/Quake-Finder/>  •  **Source:** <https://github.com/r-siddiq/Quake-Finder>
+    >**Live:** <https://r-siddiq.tech/Quake-Finder/>  •  **Source:** <https://github.com/r-siddiq/Quake-Finder>
 *   **Guess It:** A minimal, frontend-only number guessing game built with vanilla HTML, CSS, and JS. It serves as a great example of basic DOM manipulation and event handling.  
-    >**Live:** <https://r-siddiq.github.io/Guess-It/>  •  **Source:** <https://github.com/r-siddiq/Guess-It>
+    >**Live:** <https://r-siddiq.tech/Guess-It/>  •  **Source:** <https://github.com/r-siddiq/Guess-It>
 *   **Pop Quiz:** A lightweight quiz application that uses various input types and provides immediate, color-coded feedback. It demonstrates state management using `localStorage` to track user attempts.  
-    >**Live:** <https://r-siddiq.github.io/Pop-Quiz/>  •  **Source:** <https://github.com/r-siddiq/Pop-Quiz>
+    >**Live:** <https://r-siddiq.tech/Pop-Quiz/>  •  **Source:** <https://github.com/r-siddiq/Pop-Quiz>
 *   **ML Info Frontend:** A multi-page static site built with only HTML5 and CSS3 that introduces core machine learning concepts. It demonstrates content organization and styling for technical topics without relying on frameworks or build tools.  
-    >**Live:** <https://r-siddiq.github.io/ML-Info-Frontend/>  •  **Source:** <https://github.com/r-siddiq/ML-Info-Frontend>
+    >**Live:** <https://r-siddiq.tech/ML-Info-Frontend/>  •  **Source:** <https://github.com/r-siddiq/ML-Info-Frontend>
 
 ### Systems Programming & Operating Systems
 
