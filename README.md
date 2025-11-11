@@ -251,6 +251,7 @@ A full-stack, production-style Learning Management System engineered for real-wo
 * **Technologies:** Java 17, Spring Boot, Spring Security, Spring Data JPA, RabbitMQ, MySQL, Maven, JUnit/Mockito, Docker, React 18, Vite, Material-UI, HTML/CSS/JS.
 
   > [Lyceum LMS Front-End](https://github.com/Lyceum-LMS/Lyceum)
+  >
   > [Lyceum LMS Back-End](https://github.com/Lyceum-LMS/Lyceum-backend)
 
 ### VirtuMMU – Operating Systems Simulation
