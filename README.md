@@ -144,7 +144,7 @@ My approach is grounded in modern software engineering practices, including rigo
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px" />
 </a>
 
-<br>
+<br><br>
 
 <p align="center">
     <a href="https://github.com/r-siddiq">
@@ -195,7 +195,7 @@ My approach is grounded in modern software engineering practices, including rigo
 
 <br>
 
-<!--STATS-->
+<!--Featured Projects-->
 <a href="https://github.com/r-siddiq">
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px" />
 </a>
@@ -214,7 +214,7 @@ My approach is grounded in modern software engineering practices, including rigo
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px" />
 </a>
 
-<br>
+<br><br>
 
 This section highlights a few key projects that represent the breadth and depth of my skills, from foundational systems engineering to deployed, user-facing applications.
 
@@ -228,6 +228,30 @@ RoboDoc is a multi-modal AI application designed to explore the potential of mac
 *   **Technologies:** Python, Streamlit, Scikit-learn, SBERT, SHAP, Pandas.
 
     >[https://github.com/r-siddiq/RoboDoc](https://github.com/r-siddiq/RoboDoc)
+
+### Onco-Logic: Integrated AI Suite for Precision Oncology
+
+A full-stack, multi-modal decision support ecosystem designed to unify fragmented oncology data into a single intelligent workspace. Onco-Logic combines NLP over pathology reports, ML on gene expression, and survival prediction models into a cohesive, interactive Streamlit application that enables explainable, patient-specific insights for clinicians and researchers.
+
+* **End-to-End Precision Pipeline:** Integrates clinical text, genomic profiles, and survival outcomes into a unified platform for comprehensive cancer decision support.
+* **Advanced Clinical NLP (Pathfinder-NLP):** Uses transformer-based models to extract structured entities, staging, and prognostic signals from unstructured pathology reports.
+* **Genomics & Survival Modeling:** Implements gene expression–based cancer subtype classification and breast cancer survival/risk prediction with robust modeling, resampling, and interpretability.
+* **Technologies:** Python, Streamlit, PyTorch, scikit-learn, Transformers, spaCy, SHAP, UMAP, Git LFS.
+
+  > [https://github.com/Onco-Logic/Onco-Logic](https://github.com/Onco-Logic/Onco-Logic)
+
+### Lyceum LMS: Distributed University-Scale Learning Platform
+
+A full-stack, production-style Learning Management System engineered for real-world university operations. Lyceum delivers a secure, role-based experience for administrators, instructors, and students, backed by a refactored monolith-to-microservices Java backend and a modern React SPA frontend. The system showcases architectural evolution, asynchronous communication, and cloud-ready deployment patterns.
+
+* **Full-Stack System Design:** React single-page application consuming secure REST APIs from dedicated backend services, modeling real academic workflows end-to-end.
+* **Service-Oriented Backend:** Java 17 + Spring Boot architecture split into Registrar and Gradebook services, decoupled via RabbitMQ for asynchronous messaging, clean data ownership, and scalable domain boundaries.
+* **Role-Based UX & Security:** Distinct portals and flows for Admins, Instructors, and Students, backed by JWT-based authentication, authorization, and guarded routes across the stack.
+* **Cloud & DevOps Ready:** Containerized services with MySQL persistence, designed for deployment on AWS (ECS/RDS/load balancing), reflecting production deployment considerations.
+* **Technologies:** Java 17, Spring Boot, Spring Security, Spring Data JPA, RabbitMQ, MySQL, Maven, JUnit/Mockito, Docker, React 18, Vite, Material-UI, HTML/CSS/JS.
+
+  > [Lyceum LMS Front-End](https://github.com/Lyceum-LMS/Lyceum)
+  > [Lyceum LMS Back-End](https://github.com/Lyceum-LMS/Lyceum-backend)
 
 ### VirtuMMU – Operating Systems Simulation
 
@@ -264,7 +288,7 @@ This repository is not just a collection of algorithm solutions but a rigorously
 
 <br>
 
-<!--STATS-->
+<!--Thematic Portfolio-->
 <a href="https://github.com/r-siddiq">
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px" />
 </a>
