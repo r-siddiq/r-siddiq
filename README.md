@@ -70,7 +70,7 @@ My approach is grounded in modern software engineering practices, including rigo
 <!-- ========================= -->
 <div align="center">
 
-## 🏗️ Core Stack
+### 🏗️ Core Stack
 
 | **Languages & Runtimes** | **Frontend** | **Backend & APIs** | **Data & ML** | **Databases & Storage** | **DevOps & Cloud** |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -85,7 +85,7 @@ My approach is grounded in modern software engineering practices, including rigo
 <!-- ========================= -->
 <div align="center">
 
-## 🧰 Toolbox
+### 🧰 Toolbox
 
 | **IDEs & Editors** | **Version Control & PM** | **OS & Virtualization** | **Networking & Security** | **Testing & QA** | **Build · Package · Misc** |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -100,9 +100,9 @@ My approach is grounded in modern software engineering practices, including rigo
 <!-- ========================= -->
 <div align="center">
 
-## ![AWS](https://go-skill-icons.vercel.app/api/icons?i=aws)
+### ☁️ AWS
 
-| **AWS Services** |
+| **Services** |
 |:---:|
 | ![Aurora](https://go-skill-icons.vercel.app/api/icons?i=aurora) ![Cloudformation](https://go-skill-icons.vercel.app/api/icons?i=cloudformation) ![Cloudfront](https://go-skill-icons.vercel.app/api/icons?i=cloudfront) ![Cloudwatch](https://go-skill-icons.vercel.app/api/icons?i=cloudwatch) ![Dynamodb](https://go-skill-icons.vercel.app/api/icons?i=dynamodb) ![Ec2](https://go-skill-icons.vercel.app/api/icons?i=ec2) ![Ecr](https://go-skill-icons.vercel.app/api/icons?i=ecr) ![Ecs](https://go-skill-icons.vercel.app/api/icons?i=ecs) ![Eks](https://go-skill-icons.vercel.app/api/icons?i=eks) ![Elasticbeanstalk](https://go-skill-icons.vercel.app/api/icons?i=elasticbeanstalk) ![Elb](https://go-skill-icons.vercel.app/api/icons?i=elb) ![Fargate](https://go-skill-icons.vercel.app/api/icons?i=fargate) ![Lambda](https://go-skill-icons.vercel.app/api/icons?i=lambda) ![Rds](https://go-skill-icons.vercel.app/api/icons?i=rds) ![Redshift](https://go-skill-icons.vercel.app/api/icons?i=redshift) ![S3](https://go-skill-icons.vercel.app/api/icons?i=s3) |
 
@@ -115,7 +115,7 @@ My approach is grounded in modern software engineering practices, including rigo
 <!-- ========================= -->
 <div align="center">
 
-## 🎮 Game & Design
+### 🎮 Game & Design
 
 | **Game Engines** | **Design** |
 |:---:|:---:|
