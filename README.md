@@ -146,20 +146,43 @@ My approach is grounded in modern software engineering practices, including rigo
 
 <br><br>
 
-<p align="center">
+<a href="https://github.com/r-siddiq">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px" />
+</a>
+
+<h3 align="center">
     <a href="https://github.com/r-siddiq">
-        <img align="center" width ="%" src="https://komarev.com/ghpvc/?username=r-siddiq&style=for-the-badge&color=blue">
+        <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="22" height="22" align="left" />
     </a>
     <a href="https://github.com/r-siddiq">
-        <img align="center" width="%" src="https://img.shields.io/github/followers/r-siddiq?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge">
+        <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="22" height="22" align="right" />
+    </a>
+    <big><big>Stats</big></big>
+</h3>
+
+<a href="https://github.com/r-siddiq">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px" />
+</a>
+
+<br><br>
+
+<p align="center">
+    <a href="https://github.com/r-siddiq">
+        <img align="center" src="https://komarev.com/ghpvc/?username=r-siddiq&style=for-the-badge&color=blue">
+    </a>
+    <a href="https://github.com/r-siddiq">
+        <img align="center" src="https://img.shields.io/github/followers/r-siddiq?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge">
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/r-siddiq">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=r-siddiq&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=radical" alt="Rahim's github stats" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=r-siddiq&theme=radical&show_icons=true&hide_border=true" alt="Rahim's Github Stats" />
     </a>
-    <br>
+    <br><br>
+    <a href="https://github.com/r-siddiq">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-siddiq&theme=radical&hide_border=true" alt="Rahim's Streak Stats" />
+    </a>
 </p>
 
 <p align="center">
@@ -177,22 +200,9 @@ My approach is grounded in modern software engineering practices, including rigo
 
 <p align="center">
     <a href="https://github.com/r-siddiq">
-        <img
-            src="https://github-readme-activity-graph.vercel.app/graph?username=r-siddiq&theme=radical&hide_border=true&area=true&bg_color=151515&color=6eb9f2&line=41c350&point=ffffff"
-            alt="GitHub Activity Graph"
-            width="100%"
-        />
-    </a>
-    <br><br>
-    <a href="https://github.com/r-siddiq">
-        <img
-            src="https://github-profile-trophy.vercel.app/?username=r-siddiq&column=8&margin-w=20&margin-h=20&no-frame=true&theme=radical&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues"
-            alt="GitHub Trophies"
-            width="100%"
-        />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=r-siddiq&theme=radical&hide_border=true&area=true&bg_color=151515&color=6eb9f2&line=41c350&point=ffffff" alt="GitHub Activity Graph" width="100%" />
     </a>
 </p>
-
 <br>
 
 <!--Featured Projects-->
