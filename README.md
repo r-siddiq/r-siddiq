@@ -206,8 +206,6 @@ My approach is grounded in modern software engineering practices, including rigo
 
 <br>
 
-This section highlights a few key projects that represent the breadth and depth of my skills, from foundational systems engineering to deployed, user-facing applications.
-
 ### RoboDoc – AI-Powered Medical Decision Support
 
 RoboDoc is a multi-modal AI application designed to explore the potential of machine learning in healthcare decision support. Built with Python and Streamlit, it integrates three distinct AI modules into a single, interactive platform. This project showcases the ability to build and integrate complex ML models into a user-friendly application, with a strong emphasis on model explainability, a critical component for trust in AI systems.
