@@ -144,9 +144,13 @@ My approach is grounded in modern software engineering practices, including rigo
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px" />
 </a>
 
-<br><br>
+<br>
 
-<p align="center">
+<a href="https://github.com/r-siddiq">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px" />
+</a>
+
+<h3 align="center">
     <a href="https://github.com/r-siddiq">
         <img align="center" src="https://komarev.com/ghpvc/?username=r-siddiq&style=for-the-badge&color=blue">
     </a>
@@ -204,7 +208,7 @@ My approach is grounded in modern software engineering practices, including rigo
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px" />
 </a>
 
-<br><br>
+<br>
 
 This section highlights a few key projects that represent the breadth and depth of my skills, from foundational systems engineering to deployed, user-facing applications.
 
