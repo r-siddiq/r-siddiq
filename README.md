@@ -228,6 +228,19 @@ A full-stack, multi-modal decision support ecosystem designed to unify fragmente
 
   > [https://github.com/Onco-Logic/Onco-Logic](https://github.com/Onco-Logic/Onco-Logic)
 
+### ShadowDesk: Autonomous ML-Powered Trading Platform
+
+An autonomous trading platform combining real-time ML signal generation with automated trade execution. ShadowDesk implements a full ML pipeline—data ingestion, feature engineering, model training with XGBoost, and deployment via FastAPI—containerized with Docker Compose for local development and orchestrated with Kubernetes and ArgoCD for production GitOps workflows.
+
+* **Real-Time ML Inference:** FastAPI service generating trading signals from XGBoost models trained on hourly stock data with technical indicators (SMA, RSI, MACD, Bollinger Bands).
+* **Automated Trade Execution:** Alpaca broker integration supporting paper and live trading with full order lifecycle management.
+* **Complete ML Pipeline:** Airflow-directed workflow orchestrating data ingestion, feature engineering, model training, validation, and deployment with MLflow tracking.
+* **Observability Stack:** Prometheus metrics collection and Grafana dashboards for system-wide monitoring.
+* **Infrastructure as Code:** Docker Compose for local development, Kubernetes manifests with ArgoCD GitOps deployment, and sealed secrets for secure credential management.
+* **Technologies:** Python, FastAPI, Streamlit, Airflow, MLflow, XGBoost, MinIO, Qdrant, Vault, Docker, Kubernetes, ArgoCD, Prometheus, Grafana.
+
+  > [https://github.com/r-siddiq/ShadowDesk](https://github.com/r-siddiq/ShadowDesk)
+
 ### Lyceum LMS: Distributed University-Scale Learning Platform
 
 A full-stack, production-style Learning Management System engineered for real-world university operations. Lyceum delivers a secure, role-based experience for administrators, instructors, and students, backed by a refactored monolith-to-microservices Java backend and a modern React SPA frontend. The system showcases architectural evolution, asynchronous communication, and cloud-ready deployment patterns.
