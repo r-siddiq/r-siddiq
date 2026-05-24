@@ -241,6 +241,20 @@ An autonomous trading platform combining real-time ML signal generation with aut
 
   > [https://github.com/r-siddiq/ShadowDesk](https://github.com/r-siddiq/ShadowDesk)
 
+### MCP-Warden: Zero-Trust MCP Proxy Framework for Agentic Tool Security
+
+A self-contained, security-first proxy framework that mediates access between AI coding agents and MCP-compatible tools with policy enforcement, secret management, and browser automation. MCP-Warden acts as a secure gateway—inspecting every request and response, injecting API keys only where needed, and blocking dangerous operations—enabling agents to safely use powerful host tools without exposing secrets, host sockets, or privileged capabilities. Deployed via portable Docker Compose with a cross-platform launcher.
+
+* **Zero-Trust Container Hardening:** All services run as non-root with dropped capabilities, read-only root filesystems, no-new-privileges enforcement, memory/CPU limits, and an isolated internal network—only the policy enforcement boundary is exposed to the host.
+* **Policy Enforcement Engine:** Controller inspects all MCP JSON-RPC traffic, applying allow/block lists for tools, validating arguments against schemas, detecting nested/injected tool invocations to prevent prompt injection bypass, blocking SSRF attacks against internal IPs, and sanitizing responses for sensitive data (cookies, auth headers, CDP references).
+* **Secret Broker with Template Injection:** Secrets stored on the host in a gitignored directory are mounted as Docker secrets and injected upstream by the broker—API keys never reach the controller or agent container.
+* **MCP Session Gateway:** Custom session-persistent proxy captures and replays `Mcp-Session-Id` tokens across MCP lifecycle chains, with path-based routing to upstream tools and TTL-based session pruning.
+* **Agent Sandbox:** Generic Ubuntu runtime with persistent home volume supporting "bring your own tools"—users install their preferred AI CLI tool with no access to secrets, Docker socket, or host filesystem beyond a writable workspace.
+* **Tool Suite:** Integrated browser automation via Playwright MCP connecting to host Chrome through CDP with persistent profiles, plus a custom Obsidian MCP adapter for knowledge management through the Obsidian Local REST API.
+* **Technologies:** Python 3.12, Node.js, Docker, Docker Compose, MCP (Model Context Protocol), Playwright, CDP (Chrome DevTools Protocol), httpx, pkg.
+
+  > [https://github.com/r-siddiq/MCP-Warden](https://github.com/r-siddiq/MCP-Warden)
+
 ### Lyceum LMS: Distributed University-Scale Learning Platform
 
 A full-stack, production-style Learning Management System engineered for real-world university operations. Lyceum delivers a secure, role-based experience for administrators, instructors, and students, backed by a refactored monolith-to-microservices Java backend and a modern React SPA frontend. The system showcases architectural evolution, asynchronous communication, and cloud-ready deployment patterns.
