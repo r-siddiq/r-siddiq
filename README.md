@@ -338,29 +338,13 @@ My work in AI begins with a strong foundation in data science principles and cla
 
 I have experience building both server-rendered and client-side web applications, with a focus on creating robust backends and interactive user experiences. Many of these projects are deployed and include operational considerations beyond simple development, such as health-check endpoints and automated data management scripts.
 
+*   **Misc Front-End Projects:** A compact collection of small front-end and Express/EJS projects from Internet Programming coursework.
+    >**Source:** <https://github.com/r-siddiq/misc-front-end>
+
 #### Full-Stack Applications
 
 *   **Culinary Otter:** A server-rendered Node.js/Express recipe app with MySQL, multi-API integration, and user authentication.
     >**Source:** <https://github.com/r-siddiq/culinary-otter>
-*   **Inspira Find:** A Node.js/Express web app for finding inspirational quotes, featuring a multi-criteria search portal for users and a full CRUD management portal for admins. It demonstrates a clear separation of user and admin roles and interfaces within a single application.  
-    >**Source:** <https://github.com/r-siddiq/inspira-find>
-*   **Learning Machine Learning:** A dynamic SSR web application built with Node.js and Express that serves interactive content about machine learning. It uniquely integrates with the Google Gemini AI API to fetch and display on-demand, AI-generated content, demonstrating a powerful combination of server-side rendering and external AI services.  
-    >**Source:** <https://github.com/r-siddiq/Learning-Machine-Learning>
-*   **Express Solar System:** A multi-page Express.js and EJS website that showcases routed content, templating with partials, and consumption of external APIs (Unsplash and NASA APOD) to create a content-rich, server-rendered experience.  
-    >**Source:** <https://github.com/r-siddiq/Express-Solar-System>
-
-#### Front-End Projects
-
-*   **Responsive Sign-Up Page:** A clean, responsive sign-up form built with HTML, CSS, JavaScript, and Bootstrap. It includes robust client-side validation, an API call to check for username availability, and a secure password suggestion feature.  
-    >**Source:** <https://github.com/r-siddiq/Sign-Up-Page>
-*   **Quake Finder:** A static front-end web app that visualizes earthquake data from the USGS API on an interactive Google Map. This project highlights asynchronous API calls and dynamic DOM manipulation in a pure JavaScript application.  
-    >**Source:** <https://github.com/r-siddiq/Quake-Finder>
-*   **Guess It:** A minimal, frontend-only number guessing game built with vanilla HTML, CSS, and JS. It serves as a great example of basic DOM manipulation and event handling.  
-    >**Source:** <https://github.com/r-siddiq/Guess-It>
-*   **Pop Quiz:** A lightweight quiz application that uses various input types and provides immediate, color-coded feedback. It demonstrates state management using `localStorage` to track user attempts.  
-    >**Source:** <https://github.com/r-siddiq/Pop-Quiz>
-*   **ML Info Frontend:** A multi-page static site built with only HTML5 and CSS3 that introduces core machine learning concepts. It demonstrates content organization and styling for technical topics without relying on frameworks or build tools.  
-    >**Source:** <https://github.com/r-siddiq/ML-Info-Frontend>
 
 ### Systems Programming & Operating Systems
 
