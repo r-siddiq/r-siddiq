@@ -1,0 +1,47 @@
+name: Refresh public profile assets
+
+on:
+  schedule:
+    # Run off the hour to reduce GitHub's scheduled-load delay.
+    - cron: "17 06 * * 1"
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    permissions:
+      contents: write
+    env:
+      PROFILE_API_URL: ${{ github.api_url }}
+      PROFILE_REPOSITORY: ${{ github.repository }}
+      PROFILE_REF: ${{ github.ref }}
+    steps:
+      - name: Check out the profile source
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+          persist-credentials: false
+          fetch-depth: 1
+
+      - name: Run synthetic widget safety tests
+        env:
+          PYTHONDONTWRITEBYTECODE: "1"
+        run: python3 -m unittest discover -s .github/tests -p 'test_*.py'
+
+      - name: Generate both SVGs in runner scratch
+        env:
+          PROFILE_WORKFLOW_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/profile_assets.py generate --output "$RUNNER_TEMP/profile-assets"
+
+      - name: Publish generated SVGs to the dedicated assets branch
+        env:
+          PROFILE_WORKFLOW_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/profile_assets.py publish --input-dir "$RUNNER_TEMP/profile-assets"
