@@ -334,19 +334,19 @@ My work in AI begins with a strong foundation in data science principles and cla
 *   **Onco-Logic (Fork):** A fork of a comprehensive, multi-modal decision-support ecosystem for oncology. My contributions and exploration within this project focus on integrating fragmented patient data and leveraging advanced AI/ML to provide holistic patient views for clinicians.  
     >[https://github.com/r-siddiq/Onco-Logic](https://github.com/r-siddiq/Onco-Logic)
 *   **Product Signal Control Tower:** A human-in-the-loop n8n workflow for product feedback using PostgreSQL/pgvector, OpenTelemetry, and Playwright. The 21 gates are an evaluation plan; four Playwright scenarios passed against a local mock.
-    >[Source](https://github.com/r-siddiq/product-signal-control-tower)
+    >[https://github.com/r-siddiq/product-signal-control-tower](https://github.com/r-siddiq/product-signal-control-tower)
 *   **Audit AI Enablement:** A strategy deck outlining governed AI adoption and assurance approaches for audit teams.
-    >[Source](https://github.com/r-siddiq/audit-ai-enablement-deck)
+    >[https://github.com/r-siddiq/audit-ai-enablement-deck](https://github.com/r-siddiq/audit-ai-enablement-deck)
 *   **Judge Grid:** A proposed benchmark design for human-calibrated model evaluation and cost/performance routing.
-    >[Source](https://github.com/r-siddiq/judge-grid)
+    >[https://github.com/r-siddiq/judge-grid](https://github.com/r-siddiq/judge-grid)
 *   **LLM-Nexus:** Research into Codex orchestration protocols, with a Terminal-Bench runner and analysis tools.
-    >[Source](https://github.com/r-siddiq/llm-nexus)
+    >[https://github.com/r-siddiq/llm-nexus](https://github.com/r-siddiq/llm-nexus)
 
 ### Full-Stack & Web Development
 
 I have experience building both server-rendered and client-side web applications, with a focus on creating robust backends and interactive user experiences. Many of these projects are deployed and include operational considerations beyond simple development, such as health-check endpoints and automated data management scripts.
 
-*   **Misc Front-End Projects:** A collection of eight front-end and Express/EJS coursework projects, consolidated in one repository with their histories retained.
+*   **Misc Front-End Projects:** A collection of eight front-end and Express/EJS projects, consolidated in one repository with their histories retained.
     >**Source:** <https://github.com/r-siddiq/misc-front-end>
 
 #### Full-Stack Applications
