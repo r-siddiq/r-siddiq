@@ -157,7 +157,7 @@ My approach is grounded in modern software engineering practices, including rigo
 
 <p align="center">
     <a href="https://github.com/r-siddiq">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=r-siddiq&theme=radical&show_icons=true&hide_border=true" alt="Rahim's Github Stats" />
+        <img src="https://raw.githubusercontent.com/r-siddiq/r-siddiq/profile-assets/profile-stats.svg" alt="Rahim's Github Stats" width="520" />
     </a>
     <br><br>
     <a href="https://github.com/r-siddiq">
@@ -180,7 +180,7 @@ My approach is grounded in modern software engineering practices, including rigo
 
 <p align="center">
     <a href="https://github.com/r-siddiq">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=r-siddiq&theme=radical&hide_border=true&area=true&bg_color=151515&color=6eb9f2&line=41c350&point=ffffff" alt="GitHub Activity Graph" width="100%" />
+        <img src="https://raw.githubusercontent.com/r-siddiq/r-siddiq/profile-assets/activity-graph.svg" alt="GitHub Activity Graph" width="600" />
     </a>
 </p>
 <br>
@@ -328,23 +328,34 @@ This repository is not just a collection of algorithm solutions but a rigorously
 My work in AI begins with a strong foundation in data science principles and classic machine learning, progressing to the development of specialized, application-driven AI systems.
 
 *   **Machine Learning & Data Science Monorepo:** A structured collection of Jupyter Notebooks that serves as my personal knowledge base. It covers everything from data wrangling with NumPy and pandas to model building and evaluation with scikit-learn, emphasizing reproducible and well-documented practices.  
-    >[https://github.com/r-siddiq/Machine-Learning-And-Data-Science](https://github.com/r-siddiq/Machine-Learning-And-Data-Science)
+    >[https://github.com/r-siddiq/machine-learning-data-science](https://github.com/r-siddiq/machine-learning-data-science)
 *   **RoboDoc:** An AI-powered medical decision-support application featuring an SBERT chatbot, a disease classifier, and a survival predictor with SHAP explainability.  
     >[https://github.com/r-siddiq/RoboDoc](https://github.com/r-siddiq/RoboDoc)
 *   **Onco-Logic (Fork):** A fork of a comprehensive, multi-modal decision-support ecosystem for oncology. My contributions and exploration within this project focus on integrating fragmented patient data and leveraging advanced AI/ML to provide holistic patient views for clinicians.  
     >[https://github.com/r-siddiq/Onco-Logic](https://github.com/r-siddiq/Onco-Logic)
+*   **Product Signal Control Tower:** A human-in-the-loop n8n workflow for product feedback using PostgreSQL/pgvector, OpenTelemetry, and Playwright. The 21 gates are an evaluation plan; four Playwright scenarios passed against a local mock.
+    >[Source](https://github.com/r-siddiq/product-signal-control-tower)
+*   **Audit AI Enablement:** A strategy deck outlining governed AI adoption and assurance approaches for audit teams.
+    >[Source](https://github.com/r-siddiq/audit-ai-enablement-deck)
+*   **Judge Grid:** A proposed benchmark design for human-calibrated model evaluation and cost/performance routing.
+    >[Source](https://github.com/r-siddiq/judge-grid)
+*   **LLM-Nexus:** Research into Codex orchestration protocols, with a Terminal-Bench runner and analysis tools.
+    >[Source](https://github.com/r-siddiq/llm-nexus)
 
 ### Full-Stack & Web Development
 
 I have experience building both server-rendered and client-side web applications, with a focus on creating robust backends and interactive user experiences. Many of these projects are deployed and include operational considerations beyond simple development, such as health-check endpoints and automated data management scripts.
 
-*   **Misc Front-End Projects:** A compact collection of small front-end and Express/EJS projects from Internet Programming coursework.
+*   **Misc Front-End Projects:** A collection of eight front-end and Express/EJS coursework projects, consolidated in one repository with their histories retained.
     >**Source:** <https://github.com/r-siddiq/misc-front-end>
 
 #### Full-Stack Applications
 
 *   **Culinary Otter:** A server-rendered Node.js/Express recipe app with MySQL, multi-API integration, and user authentication.
     >**Source:** <https://github.com/r-siddiq/culinary-otter>
+
+*   **Docwright:** A PHP/SQLite document-publishing prototype with scheduling, search, share links, and audit logging.
+    >**Source:** <https://github.com/r-siddiq/docwright>
 
 ### Systems Programming & Operating Systems
 
@@ -359,7 +370,7 @@ This collection of projects demonstrates a firm grasp of the low-level concepts 
 *   **PULSE (CPU Scheduler Simulator):** A C simulator for classic CPU scheduling policies like round-robin and FIFO. It uses a pluggable architecture to model both preemptive and non-preemptive scheduling, reinforcing core OS concepts.  
     ><https://github.com/r-siddiq/PULSE>
 *   **Strings and Ciphers:** A modern C11 codebase implementing string manipulation utilities and classic ciphers. It demonstrates best practices in C programming, including the use of Makefiles for automated builds and the Criterion framework for unit testing.  
-    ><https://github.com/r-siddiq/Strings-And-Ciphers>
+    ><https://github.com/r-siddiq/StringsAndCiphers>
 
 ### Database Systems & Engineering
 
@@ -379,7 +390,7 @@ My experience with databases extends from application-level design and querying 
 #### Database Applications
 
 *   **DB Solutions (SQL Portfolio):** A collection of SQL scripts demonstrating proficiency in relational database design, including schema creation, complex queries, and data modeling in MySQL.  
-    >[https://github.com/r-siddiq/DB-Solutions](https://github.com/r-siddiq/DB-Solutions)
+    >[https://github.com/r-siddiq/DB_Solutions](https://github.com/r-siddiq/DB_Solutions)
 *   **Prescription Webapp (NoSQL):** A Spring Boot web application using MongoDB to manage healthcare data. It demonstrates CRUD operations and web UI development in a NoSQL, document-store context.  
     >[https://github.com/r-siddiq/Prescription-Webapp-NoSQL](https://github.com/r-siddiq/Prescription-Webapp-NoSQL)
 *   **Prescription Webapp (JDBC):** A Spring MVC web app backed by a relational database via traditional JDBC. It highlights a multi-role workflow and secure data handling in a classic MVC architecture.  
@@ -396,9 +407,9 @@ I have experience building native Android applications using Java and modern And
 *   **Pill Hub:** A native Android pharmacy management app built with Java and Room. It demonstrates a multi-user system where patients can manage their prescriptions and admins can manage the drug inventory, all within a clean MVC-like structure.  
     >[https://github.com/r-siddiq/Pill-Hub](https://github.com/r-siddiq/Pill-Hub)
 *   **C↔F Converter:** A simple native Android app for temperature conversion. It demonstrates fundamental concepts like navigation between Activities using Intents and UI management with ViewBinding.  
-    >[https://github.com/r-siddiq/C-F-Converter](https://github.com/r-siddiq/C-F-Converter)
+    >[https://github.com/r-siddiq/CtoFConverter](https://github.com/r-siddiq/CtoFConverter)
 *   **Android LifeCycles:** A demo app written in Java to illustrate the Android Activity lifecycle. It logs all lifecycle callbacks (`onCreate`, `onStart`, etc.) and shows how to persist UI state across configuration changes like screen rotations.  
-    >[https://github.com/r-siddiq/Android-LifeCycles](https://github.com/r-siddiq/Android-LifeCycles)
+    >[https://github.com/r-siddiq/AndroidLifeCycles](https://github.com/r-siddiq/AndroidLifeCycles)
 
 ### Networking & Distributed Systems
 
@@ -407,18 +418,18 @@ These projects focus on socket programming, concurrency, and network security. A
 *   **SecureNexusNetwork:** A multi-client chat service written in Python that features TLS encryption for secure communication. It offers two deployment modes: a simple Docker Compose setup and a more advanced Mininet-based virtual network simulation for in-depth analysis.  
     ><https://github.com/r-siddiq/SecureNexusNetwork>
 *   **Thread Chat:** A Python TCP chat service focused on threading and automation. It is fully containerized with Docker and includes interactive demos, showcasing socket programming, concurrency, and health checks.  
-    ><https://github.com/r-siddiq/Thread-Chat>
+    ><https://github.com/r-siddiq/Thread_Chat>
 *   **Packet Pulse:** A Python-based UDP "pinger" and heartbeat monitor. It simulates round-trip time measurements, packet loss, and heartbeat messages, demonstrating low-level UDP socket programming.  
-    >[https://github.com/r-siddiq/Packet-Pulse](https://github.com/r-siddiq/Packet-Pulse)
+    >[https://github.com/r-siddiq/Packet_Pulse](https://github.com/r-siddiq/Packet_Pulse)
 *   **Client-Server Socket Demo:** A Python UDP client/server demonstration provided in both Dockerized and Mininet-based versions, highlighting message passing and techniques for testing network programs in isolated environments.  
-    ><https://github.com/r-siddiq/Client-Server-Socket-Demo>
+    ><https://github.com/r-siddiq/Client_Server_Socket>
 
 ### Software Design & Patterns (Java)
 
 This collection of Java projects focuses on core object-oriented programming principles, design patterns, and algorithmic thinking. Each project is well-tested with JUnit to ensure correctness.
 
 *   **Battle Strategy (Design Pattern):** A Java project demonstrating the Strategy Design Pattern by implementing interchangeable "battle behaviors" for game characters. It showcases clean, extensible OOP design by separating algorithms from the objects that use them.  
-    >[https://github.com/r-siddiq/Battle-Strategy](https://github.com/r-siddiq/Battle-Strategy)
+    >[https://github.com/r-siddiq/Battle-Strategy-Patterns](https://github.com/r-siddiq/Battle-Strategy-Patterns)
 *   **Markov Text Generation:** A Java program that generates new text based on the statistical properties of an input file using Markov chains. It highlights the use of data structures (like HashMaps) to build transition tables and demonstrates probabilistic algorithms.  
     >[https://github.com/r-siddiq/Markov-Text-Generation](https://github.com/r-siddiq/Markov-Text-Generation)
 *   **Trooper Maker:** A Java project that models a Star Wars character hierarchy, demonstrating core OOP principles like inheritance, encapsulation, and polymorphism. It includes proper `equals()`/`hashCode()` overrides and JUnit tests.  
